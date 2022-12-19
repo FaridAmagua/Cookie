@@ -1,2 +1,2 @@
-# Cookie
+# CookieClicker
  Proyecto

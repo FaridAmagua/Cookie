@@ -1,0 +1,46 @@
+/* .col-2 {
+  padding: 0%;
+}
+.col-3 {
+  padding: 0%;
+}
+.col-7 {
+  padding: 0%;
+}
+.fondo{
+  background-repeat: no-repeat;
+  background-image: url("../images/Fondo.png");
+  background-size: cover;
+  height: 100%;
+  background-attachment: fixed;
+} */
+/* 
+body{
+  background:url('../images/FondoGalletasv1.jpg ');
+  background-size: cover;
+  
+} */
+
+h1{
+  font-family: Franklin Gothic Medium;
+  
+}
+
+.texto{
+  font-family: 'Courier New', Courier, monospace;
+}
+
+#titulo{
+  font-family: 'Rubik Spray Paint', cursive;
+}
+
+#fondo{
+  border: 10px;
+  border-color: red;
+  background:url('../images/SolaGalletas.png');
+ 
+} 
+#Div1{
+  background:url('../images/FondoGalletasv1.jpg');
+  background-size: cover;
+}
