@@ -14,14 +14,16 @@
   height: 100%;
   background-attachment: fixed;
 } */
-/* 
-body{
-  background:url('../images/FondoGalletasv1.jpg ');
-  background-size: cover;
-  
-} */
 
-h1{
+body{
+  background-color: antiquewhite;
+  background-size: cover;
+  background-repeat: no-repeat;
+
+
+} 
+
+titulotienda{
   font-family: Franklin Gothic Medium;
   
 }
@@ -30,17 +32,40 @@ h1{
   font-family: 'Courier New', Courier, monospace;
 }
 
-#titulo{
-  font-family: 'Rubik Spray Paint', cursive;
+#titulotienda{
+  font: 40px Tahoma, Arial, Verdana, sans-serif;
+
 }
 
-#fondo{
-  border: 10px;
-  border-color: red;
-  background:url('../images/SolaGalletas.png');
- 
-} 
+
+
+/* tienda */
+#FondoTienda{
+	color: rgb(255, 145, 0); 
+  background-size:cover;
+  background-repeat: no-repeat;
+  /* background-size: 330px 356px; */
+  width: 1;
+
+}
+
 #Div1{
-  background:url('../images/FondoGalletasv1.jpg');
-  background-size: cover;
+  background:url('../images/');
+  background-size:cover;
+  background-repeat: no-repeat;
+
+}
+
+
+#btnTieda{
+  width: 1px 20px;
+  font: 700 1em Tahoma, Arial, Verdana, sans-serif;
+	color: rgb(255, 145, 0); background-color: #59B0E5;
+	border: 1px solid #0074a5;
+	border-top: 1px solid #004370;
+	border-left: 1px solid #004370;
+}
+
+#inventario{
+  
 }

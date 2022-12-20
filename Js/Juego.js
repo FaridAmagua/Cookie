@@ -32,6 +32,13 @@ function render(){
 
 }
 
+//funcion anonima 
+var greet = function (platform) {
+    console.log("Console CookieCliker", platform);
+};
+ 
+greet("GeeksforGeeks!");
+
 var FPSProduce=1;
 
 setInterval(function(){
